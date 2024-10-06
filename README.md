@@ -41,3 +41,6 @@ CREATE TABLE fornecedor(
     telefone VARCHAR(255) NOT NULL,
     email VARCHAR(255) NOT NULL
 );
+
+```
+Certifique-se de que tenha baixado o conector mysql na lib do seu projeto para a execução ser feita com sucesso.
